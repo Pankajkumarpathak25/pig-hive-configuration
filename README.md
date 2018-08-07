@@ -1,0 +1,1 @@
+# pig-hive-configuration
